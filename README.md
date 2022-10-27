@@ -1,2 +1,2 @@
 # czwartkowalekcjajs
-commit do wrzucania pliczków z czwartkowych lekcji z javascripta
+lewuske/projekt/index.js
